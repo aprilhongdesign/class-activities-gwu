@@ -1,0 +1,47 @@
+nav {
+    background-color: rgb(0, 200, 110);
+    height: 50px;
+
+}
+
+.menu-item {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+
+.sidebar {
+    width: 29%;
+    background-color: rgb(250, 255, 209);
+    float:left;
+    height: 500px;
+
+}
+
+.main-content {
+    width: 70%;
+    float: left;
+    background: #f1f1f1
+}
+
+.chory {
+    text-align: center;
+}
+.chory img {
+    width:150px;
+}
+
+.pet-content{
+    padding: 20px;
+}
+
+.pet-content img{
+    width:150px;
+    float: left;
+    margin-right: 20px;
+}
